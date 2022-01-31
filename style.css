@@ -17,7 +17,7 @@
 .card img{
     height: 410px;
     width: 280px;
-    margin: auto 15px;
+    margin: auto 8px;
 }
 
 .float{
@@ -26,7 +26,7 @@
 
 p{
     font-size: 10px;
-    margin-left: 15px;
+    margin-left: 8px;
 }
 
 span{
@@ -35,14 +35,14 @@ span{
 
 h1{
     font-size: 15px;
-    margin-left: 15px;
+    margin-left: 8px;
 }
 
 #red{
     color: red;
-    margin-left: 15px;
+    margin-left: 8px;
 }
 
-#trough{
+#price-trough{
     text-decoration: line-through;
 }
