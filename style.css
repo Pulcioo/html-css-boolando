@@ -65,3 +65,32 @@ h1{
     color: red;
 }
 
+.card:hover #img-1{
+    content: url(img/1b.webp);
+    width: 280px;
+}
+
+.card:hover #img-2{
+    content: url(img/2b.webp);
+    width: 280px;
+}
+
+.card:hover #img-3{
+    content: url(img/3b.webp);
+    width: 280px;
+}
+
+.card:hover #img-4{
+    content: url(img/4b.webp);
+    width: 280px;
+}
+
+.card:hover #img-5{
+    content: url(img/5b.webp);
+    width: 280px;
+}
+
+.card:hover #img-6{
+    content: url(img/6b.webp);
+    width: 280px;
+}
